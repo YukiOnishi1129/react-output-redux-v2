@@ -48,6 +48,8 @@ yarn dev
 
 - react: 19.0.0
 - react-dom: 19.0.0
+- @reduxjs/toolkit: 2.5.1
+- react-redux: 9.2.0
 - vite: 6.1.0
 - @fortawesome/react-fontawesom: 0.2.2
 - @fortawesome/free-solid-svg-icons: 6.7.2
